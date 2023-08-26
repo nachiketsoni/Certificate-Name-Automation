@@ -8,14 +8,12 @@ The Certificate-Name-Automation is a Python program that allows you to apply cus
 
 - Python 3.x
 - Pillow (PIL) library
-```
+```bash
 pip install pillow
-
 ```
 - EasyGUI library
-```
+```bash
 pip install easygui
-
 ```
 
 ## How to Use
@@ -30,7 +28,6 @@ pip install easygui
 
    ```bash
    python Certificate_Name_Maker.py
-   
    ```
 
 3. **Step 1: Select Certificate Images**
